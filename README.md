@@ -1,3 +1,3 @@
 # rpn-calculator
 
-Reverse Polish Notation cacalculator using a stack data structure.
+Reverse Polish Notation cacalculator using a self implemented stack data structure.
